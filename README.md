@@ -26,6 +26,9 @@ In this iteration, I used a Low-Fidelity Prototype as wireframes to construct th
 3. Results Page: Scanned or uploaded picture of the detected item with its appropriate waste bin category.
 4. Category of Trash Container: This section will hold information related to different categories of trash, guiding users on where to dispose of their waste. It will also include a description of each category to clarify the sorting process.
 5. The Details about Trash Container: Under each type of trash category, there will appear the summary-for instance, what should be sorted into this container and what is forbidden to dispose of there. 
+
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/6deb6523-2a79-45bb-b81c-f1a1bf8c4e3c" />
+
  
 Figure: Iteration 1 Layout
 
@@ -62,13 +65,21 @@ The refined high-fidelity prototype incorporates some key changes and improvemen
 3. Results Page: The results page now displays waste categories more clearly, with additional information to help users understand which bin their item goes into. 
 4. Trash Category Materials: A quick guide explaining the different categories of wastes has been made more prominent and accessible. This will help users understand the process of sorting wastes, hence furthering the educational aspect of the app.
 5. Navigation: Now, navigation in this app is further cleaned up-labelling made much easier and clearer, and laying out. This definitely will make one's switch and toggling between different pages or functions quite facile.
+
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/75081486-cd3d-4103-a323-e6133bf1476e" />
+
  
 Figure: Iteration 2 Layout
 Method:
 In this iteration, I chose the evaluation method as Google Form Survey. The survey contained quantitative questions (rating) and qualitative questions regarding suggestions on key aspects of usability and user satisfaction. Because it can offer quick, structured feedback from a wide range of users; hence, this can be an effective way to gain various insights. The survey format makes it very easy to analyze and compare responses, which also allows for both numerical ratings and qualitative, in-depth feedback. The survey questions and answers are as follows:
 Result:
 
+      
    
+   
+![image](https://github.com/user-attachments/assets/f181f6fa-9768-4ab7-b1fa-11a28e357a12)
+
    
    
 From the responses to the survey, it could be induced that all the features of the app pleased its users. Waste sorting instructions and the navigation scored perfectly at 5.00/5.00, evidencing that users found them clear and effective. Scanning reached an average of 4.60/5.00, which means most expectations concerning this feature were met but always allows room for improvement. Color and layout scored perfectly at 5.00/5.00, showing that it was visually appealing for the users. The educational material regarding waste categories was well received; it scored a perfect 5.00/5.00, confirming that users found this information very useful and helpful. This depicts overall positive feedback. But then again, these ratings build a platform upon which further development of the user experience can proceed.
@@ -94,6 +105,9 @@ This prototype provides realistic interactions and design elements that simulate
 2.Trash container Screen: Enhanced visibility and accessibility of the quick guide for waste categories with pictures.
 3. Back Button on Trash details Page: Button replaced by the icon.
 4.Navigation: Streamlined layout with clearer labeling and icon added on each button.
+
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/e3f76926-7642-462d-a178-2504b6d46968" />
 
  
 Figure: Iteration 3 Layout
@@ -132,8 +146,6 @@ The iterative design process really informed some valuable lessons in user-cente
 
 
 
-Uses of AI
-I used ChatGPT to generate a sample scan picture for the app and refine my text for better clarity and reader understanding.
 ![image](https://github.com/user-attachments/assets/efe04838-ab54-417c-9cd6-ab43be8dbbf5)
 
 
