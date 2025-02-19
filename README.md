@@ -142,16 +142,9 @@ But it can be done even better. For example, the implementation of the loading s
 Consequently, it differs from currently existing applications for waste sorting, as real-time image recognition together with detailed sorting instructions provide an interactive and far more precise experience than text-based sorting guides can provide. This app visually integrates scanning instructions along with a quick guide to categories of waste, which is somehow different from other applications that probably wouldn't have such educative value or guidance at all. Discussion about the Process
 The iterative design process really informed some valuable lessons in user-centered design. Each round of feedback from users allowed targeted improvements, showing even the most minute details of design, such as the clarity of instructions or functionality of the back button, may make all the difference in user satisfaction. Diversity within the assessment methodologies-ranging from semi-structured interviews to surveying and cognitive walkthroughs-allows the compilation of a wide range of perspectives that could be used to better understand the strengths and weaknesses of the app. Some of the key takeaways from this process included endless feedback loops. Where low-fidelity prototypes allow for quick and agile changes, switching to high-fidelity prototypes was required when testing realistic interactions and user flows. In this way, the app would sustain the complexity that real usage has, and it provides a better feel for how users will be using the app. 
 
-
-
-
-
 ![image](https://github.com/user-attachments/assets/efe04838-ab54-417c-9cd6-ab43be8dbbf5)
 
-
-
 <img width="1127" alt="image" src="https://github.com/user-attachments/assets/2a364263-baa7-4997-85d9-301d5ce4953b" />
-
 
 
 <img width="1147" alt="image" src="https://github.com/user-attachments/assets/bb2f7501-c2ed-4b09-813c-b02cbdec5a05" />
